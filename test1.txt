@@ -1,1 +1,4 @@
 Prueba de crear y subir archivo 1.
+Esta linea se ha agregado desde un terminal diferente, después de modificar el
+archivo desde el inicial, para probar qué pasa si alguien actualiza el archivo
+antes de que yo suba el mio.
