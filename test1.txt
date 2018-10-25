@@ -1,1 +1,3 @@
 Prueba de crear y subir archivo 1.
+Ahora modifico este archivo desde un terminal y lo subo, luego lo modificaré
+sin actualizar desde otro terminal para ver qué dice.
