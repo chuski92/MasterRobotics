@@ -1,4 +1,12 @@
 Prueba de crear y subir archivo 1.
+<<<<<<< HEAD
 Esta linea se ha agregado desde un terminal diferente, después de modificar el
 archivo desde el inicial, para probar qué pasa si alguien actualiza el archivo
 antes de que yo suba el mio.
+=======
+Ahora modifico este archivo desde un terminal y lo subo, luego lo modificaré
+sin actualizar desde otro terminal para ver qué dice.
+>>>>>>> ac3e649515f0712801a059921624a822bdb5a0a1
+
+Esto es lo que pasa, sale este mensaje y te avisa de que hay hecha una
+modificacion.
